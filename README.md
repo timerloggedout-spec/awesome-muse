@@ -55,7 +55,7 @@ This section is generated from the fleet registry of record, [`config/referral_p
 | Cue (by Manus) | Early access to Cue (personal agents with own email, phone, wallet, computer) | Code: `W7AZA` |
 | Migoo | Invite-code signup access | Code: `uA3QYP` |
 | CellCog | 500 bonus credits on first purchase (paid step) | Link in the [fleet partners registry](https://github.com/timerloggedout-spec/termux-monorepo/blob/master/docs/PARTNERS.md) |
-| UnoRouter | Account via affiliate link (terms firsthand from owner screenshots 2026-10-28) | [Join](https://unorouter.com/?aff=kHp6) |
+| UnoRouter | Account via affiliate link (terms firsthand from owner screenshots 2026-10-28) | [Join](https://unorouter.com/register?aff=kHp6) |
 | Neon | Invitation link (see registry) | [Join](https://neon.com/signup?refcode=BZL02IH2) |
 | Replit | $20 in credits when they upgrade to a paid plan | [Join](https://replit.com/refer/timerloggedout) |
 

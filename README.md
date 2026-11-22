@@ -58,6 +58,7 @@ This section is generated from the fleet registry of record, [`config/referral_p
 | UnoRouter | Account via affiliate link (terms firsthand from owner screenshots 2026-10-28) | [Join](https://unorouter.com/register?aff=kHp6) |
 | Neon | Invitation link (see registry) | [Join](https://neon.com/signup?refcode=BZL02IH2) |
 | Replit | $20 in credits when they upgrade to a paid plan | [Join](https://replit.com/refer/timerloggedout) |
+| MermaidChart | Affiliate link (see registry \u2014 commission and visitor terms not established) | [Join](https://mermaidchart.cello.so/uztNIvj9s4a) |
 
 ## Maintenance
 
